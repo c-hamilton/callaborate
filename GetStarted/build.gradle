@@ -1,6 +1,17 @@
 import org.apache.commons.io.FileUtils
 import org.apache.commons.io.filefilter.FileFilterUtils
 
+buildscript {
+    // for Gradle dependencies
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.0'
+        classpath 'commons-io:commons-io:2.0.1'
+    }
+}
+
 apply plugin: 'com.android.application'
 
 android {
@@ -11,7 +22,7 @@ android {
         minSdkVersion project.ext.minSdkVersion
         targetSdkVersion project.ext.targetSdkVersion
 
-        applicationId 'com.myscript.iink.demo'
+        applicationId 'com.myscript.iink.getstarted'
         versionCode 3
         versionName '1.1.0'
     }
