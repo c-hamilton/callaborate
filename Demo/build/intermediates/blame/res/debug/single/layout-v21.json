@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/cassandrahamiltion/StudioProjects/interactive-ink-examples-android-master/Demo/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/cassandrahamiltion/.android/build-cache/9cc3d685b07bc6351144657a6928c3afbd5ea076/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/cassandrahamiltion/StudioProjects/interactive-ink-examples-android-master/Demo/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/cassandrahamiltion/.android/build-cache/9cc3d685b07bc6351144657a6928c3afbd5ea076/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/cassandrahamiltion/StudioProjects/interactive-ink-examples-android-master/Demo/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/cassandrahamiltion/.android/build-cache/9cc3d685b07bc6351144657a6928c3afbd5ea076/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/cassandrahamiltion/StudioProjects/interactive-ink-examples-android-master/Demo/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/cassandrahamiltion/.android/build-cache/9cc3d685b07bc6351144657a6928c3afbd5ea076/output/res/layout-v21/notification_action.xml"
+    }
+]
