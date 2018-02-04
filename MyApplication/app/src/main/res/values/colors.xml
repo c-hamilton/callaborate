@@ -6,4 +6,8 @@
 
     <color name="grey_100">#F5F5F5</color>
     <color name="grey_300">#E0E0E0</color>
+
+    <color name="control_gray">#959da6</color>
+    <color name="word_gray">#bfbfbf</color>
+    <color name="control_white_transparent">#f2ffffff</color>
 </resources>
