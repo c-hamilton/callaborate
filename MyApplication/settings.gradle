@@ -1,1 +1,5 @@
+rootProject.name = 'com.example.cassiehamiltion.myapplication'
 include ':app'
+include ':UIReferenceImplementation'
+
+project(':UIReferenceImplementation').dir = new File(settingsDir, 'UIReferenceImplementation')
